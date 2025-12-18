@@ -16,7 +16,7 @@ This project analyzes student performance data using Python, SQL, Excel, and Pow
 5. Build interactive dashboard
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Student_Performance_Analysis/images/dashboard.png)
 
 ## Key Insights
 - Test preparation improves student performance
